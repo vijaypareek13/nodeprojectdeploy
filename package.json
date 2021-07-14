@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   
     "start": "node index.js"
   },
   "author": "Vijay Pareek",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "requests": "^0.3.0"
   }
 }
